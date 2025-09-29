@@ -1,7 +1,3 @@
-
-! [MasterHead] (https://www.google.com/url?sa=i&url=https%3A%2F%2F4kwallpapers.com%2Ftechnology%2Fjava-logo-15990.html&psig=AOvVaw3gBNn7HobZoNBHo09UwTEZ&ust=1759217544013000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNiu_ai6_Y8DFQAAAAAdAAAAABAE)
-
-
 <h1 align="center">Hi 👋, I'm Emin Samadzade</h1>
 <h3 align="center">A passionate Software Developer from Azerbaijan</h3>
 
